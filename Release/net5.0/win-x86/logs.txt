@@ -1,0 +1,322 @@
+[21:07:49 INF] -----------------------
+[21:07:49 INF] - OneNote Md Exporter -
+[21:07:49 INF]        v1.0.0.0
+[21:07:49 INF] -----------------------
+
+[21:07:49 INF] Before continue, please verify that :
+
+* OneNote and Word of Office suite are correctly installed
+* OneNote is running and the Notebooks to export are opened
+* PanDoc software is installed (https://pandoc.org/installing.html)
+This tool and OneNote are started with normal priviledges (NOT as an administrator)
+
+Known limitations:
+* The free application 'One Note For Windows' is not supported
+* File attachments with certain extensions are not exported, including : wma, wmv, mpg, svg, mp3 (Issue #39)
+* Password protected sections are not exported
+* Hand-writting text is not exported
+
+/!\ Allways keep a backup of your OneNote notebooks in case you discover later that some data is missing in the export /!\
+
+[21:07:49 INF] Press Enter to continue...
+[21:08:13 INF] 
+***************************************
+[21:08:13 INF] 7 notebook(s) found(s).
+[21:08:13 INF] ***************************************
+
+[21:08:13 INF] Please enter the notebooks number to export : 
+[21:08:13 INF] [0] Export all notebooks
+[21:08:13 INF] [1] 专业学习
+[21:08:13 INF] [2] 大一
+[21:08:13 INF] [3] 大二
+[21:08:13 INF] [4] 大三
+[21:08:13 INF] [5] 每日思考
+[21:08:13 INF] [6] Tlich
+[21:08:13 INF] [7] 纪度记录表
+[21:08:16 INF] 
+Please choose export format: 
+[21:08:16 INF] [1] Markdown
+[21:08:16 INF] [2] Joplin Raw Folder
+[21:08:16 INF] [3] Markdown Front Matter
+[21:08:17 INF] 
+[21:08:17 INF] 
+***************************************
+[21:08:17 INF] Start exporting notebook: 大一
+[21:08:17 INF] ***************************************
+[21:08:17 INF] --> Found 3 sections
+
+[21:08:17 INF] Start processing section (1/3) :  大一\高等数学\高等数学
+[21:09:21 INF] -----------------------
+[21:09:22 INF] - OneNote Md Exporter -
+[21:09:22 INF]        v1.0.0.0
+[21:09:22 INF] -----------------------
+
+[21:09:22 INF] Before continue, please verify that :
+
+* OneNote and Word of Office suite are correctly installed
+* OneNote is running and the Notebooks to export are opened
+* PanDoc software is installed (https://pandoc.org/installing.html)
+This tool and OneNote are started with normal priviledges (NOT as an administrator)
+
+Known limitations:
+* The free application 'One Note For Windows' is not supported
+* File attachments with certain extensions are not exported, including : wma, wmv, mpg, svg, mp3 (Issue #39)
+* Password protected sections are not exported
+* Hand-writting text is not exported
+
+/!\ Allways keep a backup of your OneNote notebooks in case you discover later that some data is missing in the export /!\
+
+[21:09:22 INF] Press Enter to continue...
+[21:09:23 INF] 
+***************************************
+[21:09:23 INF] 7 notebook(s) found(s).
+[21:09:23 INF] ***************************************
+
+[21:09:23 INF] Please enter the notebooks number to export : 
+[21:09:23 INF] [0] Export all notebooks
+[21:09:23 INF] [1] 专业学习
+[21:09:23 INF] [2] 大一
+[21:09:23 INF] [3] 大二
+[21:09:23 INF] [4] 大三
+[21:09:23 INF] [5] 每日思考
+[21:09:23 INF] [6] Tlich
+[21:09:23 INF] [7] 纪度记录表
+[21:09:26 INF] 
+Please choose export format: 
+[21:09:26 INF] [1] Markdown
+[21:09:26 INF] [2] Joplin Raw Folder
+[21:09:26 INF] [3] Markdown Front Matter
+[21:09:28 INF] 
+[21:09:28 INF] 
+***************************************
+[21:09:28 INF] Start exporting notebook: Tlich
+[21:09:28 INF] ***************************************
+[21:09:28 INF] --> Found 1 sections
+
+[21:09:28 INF] Start processing section (1/1) :  Tlich\Tlich\Tlich
+[21:09:32 INF]    Page 1/6 : Tlich
+[21:09:36 INF]    Page 2/6 : 你们眼中的我是这样的吗？欢迎围观拍砖！才储分析：我是ENFP 公关型——天下没有不可能的事........
+[21:09:40 INF]    Page 3/6 : DISC性格测试 - 专业测试 - 易测网
+[21:09:43 INF]    Page 4/6 : 哪種ARM Cortex核心更適合我的應用： A系列、R系列、還是M系列？
+[21:09:47 INF]    Page 5/6 : 奔三的路上，分享自己约的这些妹子以及自己的经验技巧干货 - 综合讨论区 - 98堂[原色花堂] - ...
+[21:10:01 INF]    Page 6/6 : goal for 3 years
+[21:10:04 INF] 
+[21:10:04 INF] --> Notebook export successful
+Export folder : 'C:\Users\Tlich\Desktop\onenote-markdown\onenote-md-exporter-main\src\OneNoteMdExporter\bin\Release\net5.0\win-x86\Exports\md\Tlich-20211202 21-09'
+[21:10:04 INF] 
+[21:10:04 INF] 
+Press a key to exit...
+[21:47:31 INF] -----------------------
+[21:47:31 INF] - OneNote Md Exporter -
+[21:47:31 INF]        v1.0.0.0
+[21:47:31 INF] -----------------------
+
+[21:47:31 INF] Before continue, please verify that :
+
+* OneNote and Word of Office suite are correctly installed
+* OneNote is running and the Notebooks to export are opened
+* PanDoc software is installed (https://pandoc.org/installing.html)
+This tool and OneNote are started with normal priviledges (NOT as an administrator)
+
+Known limitations:
+* The free application 'One Note For Windows' is not supported
+* File attachments with certain extensions are not exported, including : wma, wmv, mpg, svg, mp3 (Issue #39)
+* Password protected sections are not exported
+* Hand-writting text is not exported
+
+/!\ Allways keep a backup of your OneNote notebooks in case you discover later that some data is missing in the export /!\
+
+[21:47:31 INF] Press Enter to continue...
+[21:50:46 INF] 
+***************************************
+[21:50:46 INF] 7 notebook(s) found(s).
+[21:50:46 INF] ***************************************
+
+[21:50:46 INF] Please enter the notebooks number to export : 
+[21:50:46 INF] [0] Export all notebooks
+[21:50:46 INF] [1] 专业学习
+[21:50:46 INF] [2] 大一
+[21:50:46 INF] [3] 大二
+[21:50:46 INF] [4] 大三
+[21:50:46 INF] [5] 每日思考
+[21:50:46 INF] [6] Tlich
+[21:50:46 INF] [7] 纪度记录表
+[21:50:55 INF] 
+Please choose export format: 
+[21:50:55 INF] [1] Markdown
+[21:50:55 INF] [2] Joplin Raw Folder
+[21:50:55 INF] [3] Markdown Front Matter
+[21:50:57 INF] 
+[21:50:57 INF] 
+***************************************
+[21:50:57 INF] Start exporting notebook: 专业学习
+[21:50:57 INF] ***************************************
+[21:50:57 INF] --> Found 13 sections
+
+[21:50:57 INF] Start processing section (1/13) :  专业学习\研究方法\研究方法
+[21:50:59 INF]    Page 1/16 : 浏览器打开PDF解决翻译问题
+[21:51:00 WRN] Page '专业学习\研究方法\浏览器打开PDF解决翻译问题': Error during processing of page 浏览器打开PDF解决翻译问题 [337dc32d811f4e2db963be5a078496ec]. Page ignored. Error message : 远程过程调用失败。 (0x800706BE)
+[21:51:00 INF]    Page 2/16 : 如何引用IEEE上的论文-百度经验
+[21:51:00 WRN] Page '专业学习\研究方法\如何引用IEEE上的论文-百度经验': Error during processing of page 如何引用IEEE上的论文-百度经验 [3194ae8fe7bd468bb06fea48c383da61]. Page ignored. Error message : RPC 服务器不可用。 (0x800706BA)
+[21:51:00 INF]    Page 3/16 : 机器学习算法工程师在做什么？
+[21:51:00 WRN] Page '专业学习\研究方法\机器学习算法工程师在做什么？': Error during processing of page 机器学习算法工程师在做什么？ [6bc5cfdb85e045e384b50eb489dc6824]. Page ignored. Error message : RPC 服务器不可用。 (0x800706BA)
+[21:51:00 INF]    Page 4/16 : 搞机器学习到底是在干什么？
+[21:51:00 WRN] Page '专业学习\研究方法\搞机器学习到底是在干什么？': Error during processing of page 搞机器学习到底是在干什么？ [ed316675efdc4b068f76201081c73bdc]. Page ignored. Error message : RPC 服务器不可用。 (0x800706BA)
+[21:51:00 INF]    Page 5/16 : 硕士发论文步骤
+[21:51:00 WRN] Page '专业学习\研究方法\硕士发论文步骤': Error during processing of page 硕士发论文步骤 [d938cf4f2ced45bf909e2fea7a99a59e]. Page ignored. Error message : RPC 服务器不可用。 (0x800706BA)
+[21:51:00 INF]    Page 6/16 : 怎么看论文的内容
+[21:51:00 WRN] Page '专业学习\研究方法\怎么看论文的内容': Error during processing of page 怎么看论文的内容 [b316e42add614ddc918f3c662f7886e7]. Page ignored. Error message : RPC 服务器不可用。 (0x800706BA)
+[21:51:00 INF]    Page 7/16 : Windows下右键新建.md文件教程
+[21:51:00 WRN] Page '专业学习\研究方法\Windows下右键新建.md文件教程': Error during processing of page Windows下右键新建.md文件教程 [5e86bf337c1143ef98b3e2d70ce51a72]. Page ignored. Error message : RPC 服务器不可用。 (0x800706BA)
+[21:51:00 INF]    Page 8/16 : typora行内公式不显示
+[21:51:00 WRN] Page '专业学习\研究方法\typora行内公式不显示': Error during processing of page typora行内公式不显示 [23562c7718dd4d81aece1de8035861cd]. Page ignored. Error message : RPC 服务器不可用。 (0x800706BA)
+[21:51:00 INF]    Page 9/16 : jupyter notebook
+[21:51:00 WRN] Page '专业学习\研究方法\jupyter notebook': Error during processing of page jupyter notebook [9970753947e941af8f1c031b1facf951]. Page ignored. Error message : RPC 服务器不可用。 (0x800706BA)
+[21:51:00 INF]    Page 10/16 : 信息论
+[21:51:00 WRN] Page '专业学习\研究方法\信息论': Error during processing of page 信息论 [8e5ce61d954e4e1698db2226993498fe]. Page ignored. Error message : RPC 服务器不可用。 (0x800706BA)
+[21:51:00 INF]    Page 11/16 : 服务器使用
+[21:51:00 WRN] Page '专业学习\研究方法\服务器使用': Error during processing of page 服务器使用 [f51cb30dc66549789bbb45e21650c6b8]. Page ignored. Error message : RPC 服务器不可用。 (0x800706BA)
+[21:51:00 INF]    Page 12/16 : Github 查找指南
+[21:51:00 WRN] Page '专业学习\研究方法\Github 查找指南': Error during processing of page Github 查找指南 [6ad5c8059a8040ebb01bc14313f42c7a]. Page ignored. Error message : RPC 服务器不可用。 (0x800706BA)
+[21:51:00 INF]    Page 13/16 : -- git日常使用
+[21:51:00 WRN] Page '专业学习\研究方法\--- git日常使用': Error during processing of page -- git日常使用 [788f85b955a24376a5971ae8baa8a10e]. Page ignored. Error message : RPC 服务器不可用。 (0x800706BA)
+[21:51:00 INF]    Page 14/16 : Github Desktop使用教程 - 林一诺 - 博客园
+[21:51:00 WRN] Page '专业学习\研究方法\Github Desktop使用教程 - 林一诺 - 博客园': Error during processing of page Github Desktop使用教程 - 林一诺 - 博客园 [5839c84cb9394a2b8132e5ba0bfb3e2f]. Page ignored. Error message : RPC 服务器不可用。 (0x800706BA)
+[21:51:00 INF]    Page 15/16 : ONENOTE to markdown
+[21:51:00 WRN] Page '专业学习\研究方法\ONENOTE to markdown': Error during processing of page ONENOTE to markdown [a025afe9c5474b7294553ea1c9ed8c26]. Page ignored. Error message : RPC 服务器不可用。 (0x800706BA)
+[21:51:00 INF]    Page 16/16 : Github license
+[21:51:00 WRN] Page '专业学习\研究方法\Github license': Error during processing of page Github license [4443dcf32e254fb1a8af89baaf76d035]. Page ignored. Error message : RPC 服务器不可用。 (0x800706BA)
+[21:51:00 INF] Start processing section (2/13) :  专业学习\论文\论文
+[21:24:59 INF] -----------------------
+[21:24:59 INF] - OneNote Md Exporter -
+[21:24:59 INF]        v1.0.0.0
+[21:24:59 INF] -----------------------
+
+[21:24:59 INF] 在开始之前, 请确保 :
+
+* 重要！编译工程的时候确保解压pandoc目录下的压缩包，并且将里面的exe文件放入pandoc目录下
+* OneNote正在运行，并打开要导出的笔记本
+* 正确安装了Office套件的Word和OneNote 
+该工具和OneNote以普通特权启动(不是以管理员身份) 
+
+已知的限制:
+* 不支持免费应用程序'One Note For Windows'
+* 带有某些扩展名的文件附件不导出，包括:wma, wmv, mpg, svg, mp3 (Issue #39) 
+* 密码保护部分不会导出
+* 手写文本不会导出
+
+/!\ 始终保留OneNote笔记本电脑的备份，以防您在稍后发现导出中缺少某些数据 /!\
+
+[21:24:59 INF] 按下回车以继续...
+[21:35:11 INF] -----------------------
+[21:35:11 INF] - OneNote Md Exporter -
+[21:35:11 INF]        v1.0.0.0
+[21:35:11 INF] -----------------------
+
+[21:35:12 INF] 在开始之前, 请确保 :
+
+* 重要！编译工程的时候确保解压pandoc目录下的压缩包，并且将里面的exe文件放入pandoc目录下
+* OneNote正在运行，并打开要导出的笔记本
+* 正确安装了Office套件的Word和OneNote 
+该工具和OneNote以普通特权启动(不是以管理员身份) 
+
+已知的限制:
+* 不支持免费应用程序'One Note For Windows'
+* 带有某些扩展名的文件附件不导出，包括:wma, wmv, mpg, svg, mp3 (Issue #39) 
+* 密码保护部分不会导出
+* 手写文本不会导出
+
+/!\ 始终保留OneNote笔记本电脑的备份，以防您在稍后发现导出中缺少某些数据 /!\
+
+[21:35:12 INF] 按下回车以继续...
+[21:35:18 INF] 
+***************************************
+[21:35:18 INF] 找到 8 本笔记本。
+[21:35:18 INF] ***************************************
+
+[21:35:18 INF] 请输入要导出的笔记本编号 : 
+[21:35:18 INF] [0] 导出所有笔记本
+[21:35:18 INF] [1] 专业学习
+[21:35:18 INF] [2] 大一
+[21:35:18 INF] [3] 大二
+[21:35:18 INF] [4] 大三
+[21:35:18 INF] [5] 每日思考
+[21:35:18 INF] [6] Tlich
+[21:35:18 INF] [7] 纪度记录表
+[21:35:18 INF] [8] 打印专用
+[21:35:19 INF] 
+选择导出的格式: 
+[21:35:19 INF] [1] Markdown
+[21:35:19 INF] [2] Joplin Raw Folder
+[21:35:19 INF] [3] Markdown Front Matter
+[21:35:20 INF] 
+[21:35:20 INF] 
+***************************************
+[21:35:20 INF] 开始导出笔记本: 打印专用
+[21:35:20 INF] ***************************************
+[21:35:20 INF] --> Found 1 sections
+
+[21:35:20 INF] Start processing section (1/1) :  打印专用\新分区 1\新分区 1
+[21:35:20 INF]    Page 1/1 : onenote导出md的流程
+[21:35:25 INF] 
+[21:35:25 INF] --> 笔记本导出成功
+导出路径为 : 'D:\Dev\Project\Onenote-to-Markdown-tlich\src\OneNoteMdExporter\bin\Release\net5.0\win-x86\Exports\md\打印专用-20211205 21-35'
+[21:35:25 INF] 
+[21:35:25 INF] 
+按下任何按键退出...
+[22:06:44 INF] -----------------------
+[22:06:44 INF] - OneNote Md Exporter -
+[22:06:44 INF]        v1.0.0.0
+[22:06:44 INF] -----------------------
+
+[22:06:44 INF] 在开始之前, 请确保 :
+
+* 重要！编译工程的时候确保解压pandoc目录下的压缩包，并且将里面的exe文件放入pandoc目录下
+* OneNote正在运行，并打开要导出的笔记本
+* 正确安装了Office套件的Word和OneNote 
+该工具和OneNote以普通特权启动(不是以管理员身份) 
+
+已知的限制:
+* 不支持免费应用程序'One Note For Windows'
+* 带有某些扩展名的文件附件不导出，包括:wma, wmv, mpg, svg, mp3 (Issue #39) 
+* 密码保护部分不会导出
+* 手写文本不会导出
+
+/!\ 始终保留OneNote笔记本电脑的备份，以防您在稍后发现导出中缺少某些数据 /!\
+
+[22:06:44 INF] 按下回车以继续...
+[22:06:47 INF] 
+***************************************
+[22:06:47 INF] 找到 8 本笔记本。
+[22:06:47 INF] ***************************************
+
+[22:06:47 INF] 请输入要导出的笔记本编号 : 
+[22:06:47 INF] [0] 导出所有笔记本
+[22:06:47 INF] [1] 专业学习
+[22:06:47 INF] [2] 大一
+[22:06:47 INF] [3] 大二
+[22:06:47 INF] [4] 大三
+[22:06:47 INF] [5] 每日思考
+[22:06:47 INF] [6] Tlich
+[22:06:47 INF] [7] 纪度记录表
+[22:06:47 INF] [8] 打印专用
+[22:06:49 INF] 
+选择导出的格式: 
+[22:06:49 INF] [1] Markdown
+[22:06:49 INF] [2] Joplin Raw Folder
+[22:06:49 INF] [3] Markdown Front Matter
+[22:06:50 INF] 
+[22:06:50 INF] 
+***************************************
+[22:06:50 INF] 开始导出笔记本: 打印专用
+[22:06:50 INF] ***************************************
+[22:06:50 INF] --> Found 1 sections
+
+[22:06:50 INF] Start processing section (1/1) :  打印专用\新分区 1\新分区 1
+[22:06:50 INF]    Page 1/1 : onenote导出md的流程
+[22:06:54 INF] 
+[22:06:54 INF] --> 笔记本导出成功
+导出路径为 : 'D:\Dev\Project\Onenote-to-Markdown-tlich\Release\net5.0\win-x86\Exports\md\打印专用-20211205 22-06'
+[22:06:54 INF] 
+[22:06:54 INF] 
+按下任何按键退出...
